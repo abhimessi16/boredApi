@@ -1,6 +1,7 @@
-package org.example;
+package com.abhimessi.boredApp;
 
-public class Main {
+
+public class BoredApp {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
