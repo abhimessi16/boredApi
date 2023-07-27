@@ -18,8 +18,12 @@ public class TaskController {
         like you wouldn't send the taskId right?
 
         also try to check for correctness and send proper status codes
-        try this later in the day (29-07-23)
+        try this later
         for now create the api
+
+        i'm thinking that i can like separate this controller
+        into /task and /tasks
+        let's see later
      */
 
     private TaskService taskService;
